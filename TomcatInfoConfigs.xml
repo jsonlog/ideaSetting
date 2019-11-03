@@ -10,9 +10,6 @@
     <option name="tomcatInfos">
       <list>
         <TomcatInfo>
-          <option name="path" value="/usr/local/Cellar/tomcat/9.0.17" />
-        </TomcatInfo>
-        <TomcatInfo>
           <option name="name" value="Apache Tomcat 9.0.17" />
           <option name="path" value="/usr/local/Cellar/tomcat/9.0.17/libexec" />
           <option name="version" value="9.0.17.0" />
