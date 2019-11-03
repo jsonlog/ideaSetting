@@ -1,0 +1,7 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="File '~/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/2.1.6.RELEASE/b351c79404e096cc28d45f8395f53cc856989098/spring-boot-2.1.6.RELEASE-sources.jar!/org/springframework/boot/context/properties/EnableConfigurationProperties.java [Gradle: org.springframework.boot:spring-boot:2.1.6.RELEASE]'" />
+    <option name="defaultScopeName" value="File '~/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/2.1.6.RELEASE/b351c79404e096cc28d45f8395f53cc856989098/spring-boot-2.1.6.RELEASE-sources.jar!/org/springframework/boot/context/properties/EnableConfigurationProperties.java [Gradle: org.springframework.boot:spring-boot:2.1.6.RELEASE]'" />
+    <option name="SEARCH_SCOPE" value="File '~/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/2.1.6.RELEASE/b351c79404e096cc28d45f8395f53cc856989098/spring-boot-2.1.6.RELEASE-sources.jar!/org/springframework/boot/context/properties/EnableConfigurationProperties.java [Gradle: org.springframework.boot:spring-boot:2.1.6.RELEASE]'" />
+  </component>
+</application>
