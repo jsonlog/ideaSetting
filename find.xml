@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../spring-beans/src/main/java/org/springframework/beans/factory/xml/XmlBeanFactory.java [spring.spring-beans.main]'" />
-    <option name="defaultScopeName" value="File '.../spring-beans/src/main/java/org/springframework/beans/factory/xml/XmlBeanFactory.java [spring.spring-beans.main]'" />
-    <option name="SEARCH_SCOPE" value="File '.../spring-beans/src/main/java/org/springframework/beans/factory/xml/XmlBeanFactory.java [spring.spring-beans.main]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>
