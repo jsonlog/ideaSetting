@@ -35,9 +35,6 @@
               <option name="commandLine" value="clean install" />
             </Goal>
             <Goal>
-              <option name="commandLine" value="springboot:run" />
-            </Goal>
-            <Goal>
               <option name="commandLine" value="spring-boot:run" />
             </Goal>
           </list>
