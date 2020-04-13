@@ -1,0 +1,6 @@
+<keymap version="1" name="XWin copy" parent="Default for XWin">
+  <action id="CollapseTreeNode">
+    <keyboard-shortcut first-keystroke="subtract" />
+    <keyboard-shortcut first-keystroke="alt minus" />
+  </action>
+</keymap>
